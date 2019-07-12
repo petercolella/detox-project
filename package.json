@@ -9,7 +9,7 @@
   "dependencies": {
     "braces": "^3.0.2",
     "react": "^16.8.6",
-    "react-native": "^0.59.8",
+    "react-native": "^0.60.3",
     "ws": "^7.0.0"
   },
   "devDependencies": {
